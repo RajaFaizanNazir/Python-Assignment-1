@@ -1,0 +1,8 @@
+Strings are equal
+-> according to first method(Word-by-Word)
+Strings are equal
+-> according to second method(Interning)
+Second Method (Interning) is 41.788 times faster than First Method(Word-by-word)
+-> This is average result based on 97 tests <-
+Strings are equal
+-> according to third method(word_count, dictionary)
